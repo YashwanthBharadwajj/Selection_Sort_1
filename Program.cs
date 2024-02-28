@@ -1,4 +1,12 @@
-﻿int[] selection_sort_numbers = { 5, 72, 3, 14, 7, 1 };
+﻿/*
+Author: Yashwanth Bharadwaj Nandamuru
+Date: 2/28/2023
+Comments: This is a  program for Selection Sort algorithm
+*/
+
+
+
+int[] selection_sort_numbers = { 5, 72, 3, 14, 7, 1 };
 for (int i = 0; i < selection_sort_numbers.Length; i++)
 {
     Console.Write("  " + selection_sort_numbers[i]);
